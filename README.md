@@ -1,6 +1,6 @@
 # Todo-list
-Todo aplication in JavaScript
-Simple Todo aplication
+Simple Todo aplication in JavaScript
+
 
 1) Create task
 2) Edit task
